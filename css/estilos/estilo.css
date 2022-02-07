@@ -1,0 +1,66 @@
+
+.imagem-pokemon {
+    height: 55px;
+    width: 151px;
+    left: -1750px;
+    top: 19px;
+    border-radius: 0;
+
+
+}
+
+.campo-de-busca {
+    height: 55px;
+    width: 1200px;
+    left: -1548px;
+    top: 19px;
+    border-radius: 0;
+}
+
+.botao-loguin {
+
+    height: 42px;
+    width: 150px;
+    left: -198px;
+    top: 26px;
+    border-radius: 150px;
+
+
+
+}
+
+.input-navbar {
+    Width: 1800px;
+    Height: 90px;
+    Top: 4px;
+    Left: -1780px;
+
+}
+
+.logo-competi {
+    left: -3000px;
+    top: 19px;
+    border-radius: 0;
+
+}
+
+.navbar-caracteristicas {
+
+    position: absolute;
+    width: 1920px;
+    height: 69px;
+    background: #524153;
+    flex-direction: row;
+    justify-content: center;
+    box-shadow: 2px 2px 5px #1a1e21;
+}
+
+.propriedades-do-corpo {
+    position: absolute;
+    height: 800px;
+    width: 100%;
+    left: auto;
+    right: auto;
+    border-radius: 0;
+    background: #E0D7EC;
+}
