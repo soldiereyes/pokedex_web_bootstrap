@@ -8,7 +8,6 @@ function loadpk() {
             return response.json();
         })
         .then((data) => {
-            // o que vamos fazer com os dados
             console.clear();
             console.log(data);
             document.getElementById('nome').innerHTML = data['botao-carregar-pokemon5'];
