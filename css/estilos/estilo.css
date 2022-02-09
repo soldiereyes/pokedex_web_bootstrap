@@ -1,21 +1,11 @@
 body{
     background-color: #e0d7ec;
+    width: auto;
+    height: auto;
 }
-
 .navbar-caracteristicas {
     background-color: #524153;
     padding-bottom: 10px;
-}
-
-.botao-carregar-pokemon{
-background-color: #7E7394;
-    height: 37px;
-    width: 90px;
-    border: 2px solid #1a1e21;
-    border-radius: 10px;
-    padding-bottom: 12px;
-
-
 }
 .botao-loguin{
     background-color: #7E7394;
@@ -23,31 +13,81 @@ background-color: #7E7394;
     width: 105px;
     border-radius: 12px;
     text-align: center;
-
 }
-
-
 .input-navbar {
     Width: 1800px;
     Height: 90px;
     Top: 4px;
     Left: -1780px;
-
 }
-
 .logo-competi {
     left: -3000px;
     top: 19px;
     border-radius: 0;
-
 }
-
 .propriedades-do-corpo {
     position: absolute;
-    height: 800px;
+    height: 100%;
     width: 100%;
     left: auto;
     right: auto;
     border-radius: 0;
     background: #E0D7EC;
+}
+.conteiner-de-listagem{
+    border-radius: 10px;
+    background: #D4C3A3;
+    width: 800px;
+    box-shadow: 0 2px 5px #1a1e21;
+    padding-bottom: 1700px;
+}
+.card{
+    border-radius: 10px;
+    background: #D4C3A3;
+    width: 50px;
+    box-shadow: 0 2px 5px #1a1e21;
+    padding-bottom: 150px;
+
+}
+.caracteristicas-do-carrossel{
+    height: 15em;
+    background-color: #e0d7ec;
+    width: 10em;
+    padding-top: 20px;
+}
+/*.caracteristicas-do-card{*/
+/*    background-color: #B4ADBE;*/
+/*    width: 170px;*/
+/*    height: 180px;*/
+/*    box-shadow: 0 2px 5px #1a1e21;*/
+/*    align-items: center;*/
+/*    left: -40px;*/
+/*    border: 2px solid #1a1e21;*/
+/*}*/
+.caracteristicas-da-box-numero{
+    width: 30px;
+    height: 30px;
+    background-color: #535662;
+    border-radius: 10px;
+    border: 2px solid #100B16;
+    transform: rotate(-43deg)
+}
+.botao-carregar-pokemon {
+    background-color: #7E7394;
+    height: 40px;
+    border-radius: 10px;
+    padding-bottom: 12px;
+}
+.box-tipo-pokemon{
+    width: 60px;
+    height: 22px;
+    background-color: #f6bd20;
+    border-radius: 5px;
+    padding-bottom: 5px;
+}
+.estilos-da-imagem-card{
+    border-radius: 10px;
+    width: 140px;
+    height: 170px;
+    align-content: center;
 }
