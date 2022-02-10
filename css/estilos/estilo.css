@@ -15,7 +15,6 @@ body{
     text-align: center;
 }
 .input-navbar {
-    Width: 1800px;
     Height: 90px;
     Top: 4px;
     Left: -1780px;
@@ -35,11 +34,11 @@ body{
     background: #E0D7EC;
 }
 .conteiner-de-listagem{
-    border-radius: 10px;
-    background: #D4C3A3;
-    width: 800px;
-    box-shadow: 0 2px 5px #1a1e21;
-    padding-bottom: 1700px;
+/*    border-radius: 10px;*/
+/*    background: #D4C3A3;*/
+/*    width: 800px;*/
+/*    box-shadow: 0 2px 5px #1a1e21;*/
+/*    padding-bottom: 1700px;*/
 }
 .card{
     border-radius: 10px;
